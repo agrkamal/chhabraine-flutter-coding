@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833349358253",
+    "project_id": "soundemic-34a86",
+    "storage_bucket": "soundemic-34a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833349358253:android:6d66ae8bcbc015444a2c24",
+        "android_client_info": {
+          "package_name": "com.example.soundemic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833349358253-g9fn7r9o1vld0rpciosctplp9smukep1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soundemic",
+            "certificate_hash": "d9d6ce4856634de48010ab988eea7d231d024c01"
+          }
+        },
+        {
+          "client_id": "833349358253-jakfptvugq9bpu81gtep9tcqr5b5vofl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6ADrr-ZUHNGFenvV6k0WqIxgXnux5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833349358253-jakfptvugq9bpu81gtep9tcqr5b5vofl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -18,20 +18,20 @@ You can use MongoDB or any Firebase database.
 We expect you to complete it **in 5-8hrs but there is no hard time line**.
 
 ## Requirements:
-1. User sign up and login using JWT token(User session should be maintained)
-2. Users can upload a song 
+1. User sign up and login using JWT token(User session should be maintained) //done
+2. Users can upload a song // done
 3. On homepage after login users can:
-   * listen songs of other users 
-   * like songs
-4. Sort the songs by date on home page
+   * listen songs of other users //done
+   * like songs // done
+4. Sort the songs by date on home page // done
 5. Load only 25 songs and as the user scroll down he should be able to load more 25 songs without clicking any button. (Hint: See on scroll in JS)
-6. User Profile where he is able to edit his name and profile pic:
-    * When he opens profile page his data should be pre populated
-    * Edit button should only work if he makes any changes.
-7. On user profile he should be able to see his songs and metrics like:
-    * Number of songs uploaded
-    * Number of likes on each song
-    * Total number of likes
+6. User Profile where he is able to edit his name and profile pic: //done
+    * When he opens profile page his data should be pre populated //done
+    * Edit button should only work if he makes any changes. //done
+7. On user profile he should be able to see his songs and metrics like: //done
+    * Number of songs uploaded //done
+    * Number of likes on each song //done
+    * Total number of likes //done
 
 ## Assessment Evaluation
 **What we will be evaluating on:**
