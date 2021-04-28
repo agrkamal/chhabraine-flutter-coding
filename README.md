@@ -52,3 +52,9 @@ Submit github link of React.js app and backend seprately.
 
 ## Any Questions:
 Contact: preetsc27@gmail.com, preet@dfab.ai
+
+
+
+
+
+<img src = "https://github.com/agrkamal/chhabraine-flutter-coding/blob/main/soundemic/screenshots/Login.jpg?raw=true" width = 300> <img src = "https://github.com/agrkamal/chhabraine-flutter-coding/blob/main/soundemic/screenshots/Profile.jpg?raw=true" width = 300> <img src = "https://github.com/agrkamal/chhabraine-flutter-coding/blob/main/soundemic/screenshots/Song%20Playing.jpg?raw=true" width = 300> <img src = "https://github.com/agrkamal/chhabraine-flutter-coding/blob/main/soundemic/screenshots/Home%20Screen.jpg?raw=true" width = 300> <img src = "https://github.com/agrkamal/chhabraine-flutter-coding/blob/main/soundemic/screenshots/SignUp.jpg?raw=true" width = 300>
